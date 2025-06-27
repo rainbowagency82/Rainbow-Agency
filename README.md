@@ -1,2 +1,2 @@
 # payment-calculator
-sharechat payment calculator
+Rainbow Agency sharechat payment calculator

@@ -104,4 +104,12 @@ function calculatePayment() {
     payment -= tds;
     paymentInput.value = payment;
     errorMessage.textContent = "";
-  }
+  } <h1>Welcome to Rainbow Agency </h1>
+    <p>Some content goes here...</p>
+
+    <div class="footer">
+        Created by Rainbow Agency
+    </div>
+
+</body>
+</html>
